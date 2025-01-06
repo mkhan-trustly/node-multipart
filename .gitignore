@@ -37,3 +37,6 @@ ipch/
 # Optional: Test Coverage Reports
 coverage/
 .nyc_output/
+
+# Project specific files
+uploads/
