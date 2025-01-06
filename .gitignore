@@ -1,0 +1,39 @@
+# macOS Specific Files
+.DS_Store
+
+# Node.js Specific Files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+dist/
+.env
+coverage/
+
+# Visual Studio Specific Files
+*.user
+*.suo
+*.vcxproj.user
+*.pdb
+*.opendb
+*.tlog
+ipch/
+*.dbmdl
+*.log
+.vs/
+
+# Visual Studio Code Specific Files
+.vscode/
+*.code-workspace
+.history/
+
+# Optional: Build/Cache Files
+.build/
+.cache/
+*.bak
+.idea/
+
+# Optional: Test Coverage Reports
+coverage/
+.nyc_output/
